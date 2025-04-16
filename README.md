@@ -19,7 +19,7 @@ You can view the full, interactive version of the visualisation on [Tableau](htt
 1.  🔍 **Data Extraction (R):**
     * Learning outcome data was extracted from the college's intranet using R scripts.
     * The scripts automated the process of looping through module pages and extracting relevant information, including module code, level, and learning outcome text.
-    * Due to the protected nature of the college's intranet, the exact scraping code cannot be shared, but an example of a general web scraping approach can be provided (see "Additional Notes" section).
+    * Due to the protected nature of the college's intranet, the exact scraping code cannot be shared, but an example of a general web scraping approach can be provided (see ["Example Code"](https://github.com/JP-Kelly/module-learning-outcome-audit/blob/main/README.md#-example-code) section).
     * The following data points were captured:
         * `Module_Code`
         * `Module_Name`
