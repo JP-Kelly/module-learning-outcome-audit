@@ -1,7 +1,5 @@
-# 🗂️ Data Dictionary
+# 🗂️ Data Dictionaries
 
-
-# Data Dictionaries
 
 This document provides descriptions of all data fields across the three linked datasets in this curriculum analysis project. The datasets are relationally connected via `Module_Code` and `Learning_Outcome_type`.
 
