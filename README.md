@@ -122,4 +122,3 @@ write_csv(all_module_data, "module_data.csv")
 
 print("Module data scraped and saved to module_data.csv")
 ```
-## Project Structure
