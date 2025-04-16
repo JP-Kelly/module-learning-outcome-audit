@@ -2,6 +2,10 @@
 
 This project involved a comprehensive audit of learning outcomes across Royal Holloway's department of Media Arts module offerings. The goal was to collect and analyse the distribution of learning outcomes to ensure alignment with departmental objectives and external quality assurance requirements. Data was extracted from the college's intranet, analysed, and visualised to provide actionable insights for curriculum development.
 
+![Audit Dashboard](https://github.com/user-attachments/assets/6ff1c0bf-48b0-4b22-bbf7-f240c71ac57a)
+
+
+
 ## 🔧 Key Technologies
 
 * **R:** Used for web scraping and initial data extraction from the college's intranet.
