@@ -11,7 +11,8 @@ You can view the full, interactive version of the visualisation on [Tableau](htt
 ## 🔧 Key Technologies
 
 * **R:** Used for web scraping and initial data extraction from the college's intranet.
-* **Tableau:** Employed for exploratory data analysis and the creation of interactive visualisations, including word clouds and Sankey diagrams.
+* **Tableau:** Employed for exploratory data analysis and the creation of interactive visualisations, including word clouds and bar charts.
+* **Flourish:** Used to build the Sankey Diagrams.
 
 ## Project Overview
 
