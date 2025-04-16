@@ -4,7 +4,7 @@ This project involved a comprehensive audit of learning outcomes across Royal Ho
 
 ![Audit Dashboard](https://github.com/user-attachments/assets/6ff1c0bf-48b0-4b22-bbf7-f240c71ac57a)
 
-
+![Sankey Diagram](https://github.com/JP-Kelly/module-learning-outcome-audit/blob/main/files/Flourish%20Sankey.gif)
 
 ## 🔧 Key Technologies
 
