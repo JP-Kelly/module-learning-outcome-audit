@@ -44,6 +44,8 @@ I conceived of and led this project, which spanned approximately two months. The
 
 ## 👨‍💻 Example Code
 
+While the exact R code used for data extraction is unavailable due to privacy constraints, the code snippet below provides a working example of a typical web scraping workflow. It is heavily commented to guide you in adapting it for different websites and data structures:
+
 ```
 # Load necessary libraries
 library(rvest)      # For web scraping
